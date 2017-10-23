@@ -1,6 +1,6 @@
 # Evotar
 
-The analysis of Evotar data can be performed on [shaman](shaman.pasteur.fr).
+The analysis of Evotar data can be performed on [shaman](http://shaman.pasteur.fr).
 
 ## Count and annotation files :
 
